@@ -1,0 +1,4 @@
+Ein User hat einen Vornamen und Nachnamen.
+Ein User hat eine Liste an Sammlungen.
+Eine Sammlung hat einen Titel, Beschreibung und eine Menge mit Gegenstände.
+Ein Gegenstand hat einen Titel, Beschreibung und ein Bildpfad.
