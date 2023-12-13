@@ -4,7 +4,7 @@ public class Item {
     private String title;
     private String description;
     private String image;
-    private static String DEFAULT_DESCRIPTION = "No description available";
+    private final static String DEFAULT_DESCRIPTION = "No description available";
 
     public Item(String title) {
         this(title, DEFAULT_DESCRIPTION);

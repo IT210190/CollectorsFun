@@ -6,7 +6,7 @@ public class Collections {
     private String title;
     private String description;
     private HashSet<Item> items;
-    private static String DEFAULT_DESCRIPTION = "No description available";
+    private final static String DEFAULT_DESCRIPTION = "No description available";
 
     public Collections(String title) {
         this(title, DEFAULT_DESCRIPTION);
